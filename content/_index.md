@@ -2,13 +2,13 @@
 title: Home
 client_logos:
   - name: "Android Logo"
-    logo: "/images/logos/android.5.svg"
+    logo: "images/logos/android.5.svg"
   - name: "Apple Logo"
-    logo: "/images/logos/apple.2.1.svg"
+    logo: "images/logos/apple.2.1.svg"
   - name: "Android Logo"
-    logo: "/images/logos/android.5.svg"
+    logo: "images/logos/android.5.svg"
   - name: "Apple Logo"
-    logo: "/images/logos/apple.2.1.svg"
+    logo: "images/logos/apple.2.1.svg"
 testimonials:
   - name: "John Smith"
     title: "CTO at TechStartup"
@@ -20,7 +20,7 @@ testimonials:
     quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
   - name: "Michael Chen"
     title: "Lead Developer at CloudTech"
-    avatar: "/images/testimonial-1.svg"
+    avatar: "images/testimonial-1.svg"
     quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
 ---
 
@@ -48,9 +48,9 @@ testimonials:
     description="Propela is a visually engaging application with specialised didactic content for each language and covers a wide range of Speech-Language Therapy intervention areas."
     badge="CAPABILITIES"
     badgeColor="#cf7545"
-    image="/images/sample_01.png"
+    image="images/sample_01.png"
     buttonText="Find out more"
-    buttonLink="/#section1"
+    buttonLink="#section1"
     features="Appealing Visuals,Regular New Content,Therapeutical Principles,Multiple Languages"
     imagePosition="right"
 >}}
@@ -64,17 +64,17 @@ testimonials:
             {{< team-member 
                 name="General Public"
                 title="Access to every activities and games."
-                image="/images/download.png"
+                image="images/download.png"
             >}}
             {{< team-member 
                 name="Caregiver Hub"
                 title="Scheduling and tracking of the tasks from the sessions."
-                image="/images/download-1.png"
+                image="images/download-1.png"
             >}}
             {{< team-member 
                 name="Therapist Hub"
                 title="Manage patients and daily work-related tasks."
-                image="/images/download-2.png" 
+                image="images/download-2.png" 
             >}}
         </div>
     </div>
@@ -86,9 +86,9 @@ testimonials:
     description="A one-stop-shop to set individual user profiles and keep track of progress, manage and schedule appointments, exchange documentation and session alerts."
     badge="HUBS FEATURES"
     badgeColor="#CA3851"
-    image="/images/crm_mock.png"
+    image="images/crm_mock.png"
     buttonText="Find out more"
-    buttonLink="/#section1"
+    buttonLink="#section1"
     features="Schedule Calendar,Tasks Progress,Reminders and Notes"
     imagePosition="left"
 >}}
