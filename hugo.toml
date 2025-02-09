@@ -26,8 +26,8 @@ paginatePath = "page"
 
 [params]
   description = ""
-  author = "Chaoming Li"
-  logo = "/images/propela_logo_symbol.png"
+  author = "Propela"
+  logo = "images/propela_logo_symbol.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
