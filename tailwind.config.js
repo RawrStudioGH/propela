@@ -11,7 +11,7 @@ module.exports = {
       colors: {
         primary: {
           50: '#eef1fc',
-          600: '#724774',
+          600: '#724774',  // Purple
         },
         secondary: {
           // Your secondary color palette

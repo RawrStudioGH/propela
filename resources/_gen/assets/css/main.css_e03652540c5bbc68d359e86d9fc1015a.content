@@ -3697,10 +3697,6 @@ select {
   --tw-text-opacity: 1;
   color: rgb(34 197 94 / var(--tw-text-opacity, 1));
 }
-.text-primary-100 {
-  --tw-text-opacity: 1;
-  color: rgb(221 227 249 / var(--tw-text-opacity, 1));
-}
 .text-primary-600 {
   --tw-text-opacity: 1;
   color: rgb(114 71 116 / var(--tw-text-opacity, 1));

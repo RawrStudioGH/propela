@@ -1,16 +1,14 @@
 ---
 title: Home
 client_logos:
+  - name: "Android Logo"
+    logo: "/images/logos/android.5.svg"
   - name: "Apple Logo"
-    logo: "/images/logos/logo-apple.svg"
-  - name: "Customer 2"
-    logo: "/images/logos/customer-2.png"
-  - name: "Customer 3"
-    logo: "/images/logos/customer-3.png"
-  - name: "Customer 4"
-    logo: "/images/logos/customer-4.png"
-  - name: "Customer 5"
-    logo: "/images/logos/customer-5.png"
+    logo: "/images/logos/apple.2.1.svg"
+  - name: "Android Logo"
+    logo: "/images/logos/android.5.svg"
+  - name: "Apple Logo"
+    logo: "/images/logos/apple.2.1.svg"
 testimonials:
   - name: "John Smith"
     title: "CTO at TechStartup"
@@ -29,38 +27,39 @@ testimonials:
 {{< hero 
     headline="Speech-Language Therapy Tool At Home"
     sub_headline="Educational and entertaining digital solution with therapeutic content for speech-language development for children."
-    primary_button_text="Learn More"
+    primary_button_text="Coming soon to Android and iOS"
     primary_button_url="#"
     secondary_button_text="Contact Us"
-    secondary_button_url="#"
+    secondary_button_url="#section3"
     hero_image="/images/propela_logo.png"
-    gradient-from="#dbeafe"
-    gradient-to="#f3e8ff"
+    gradient-from="#F7F7F7"
+    gradient-to="#F7F7F7"
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Propela's Features"
+    description="Discover how our app helps you and your child with ease."
 >}}
 
 {{< feature
     title="Activities and Games"
     description="Propela is a visually engaging application with specialised didactic content for each language and covers a wide range of Speech-Language Therapy intervention areas."
     badge="CAPABILITIES"
-    badgeColor="#2563eb"
+    badgeColor="#cf7545"
     image="/images/sample_01.png"
-    buttonText="Learn More"
-    buttonLink="/features/performance/"
+    buttonText="Find out more"
+    buttonLink="/#section1"
     features="Appealing Visuals,Regular New Content,Therapeutical Principles,Multiple Languages"
     imagePosition="right"
 >}}
 
+
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Tool for everyone</h2>
+        <h2 class="text-3xl font-bold text-center mb-8">Tool for everyone</h2>
+        <p class="text- text-center text-gray-600 mb-12">Additional content that will simplify everyone their everyday's life.</p>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="General Public"
@@ -86,11 +85,11 @@ testimonials:
     title="Track progress and tasks"
     description="A one-stop-shop to set individual user profiles and keep track of progress, manage and schedule appointments, exchange documentation and session alerts."
     badge="HUBS FEATURES"
-    badgeColor="#16a34a"
-    image="/images/download-3.png"
-    buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Not final look."
+    badgeColor="#CA3851"
+    image="/images/crm_mock.png"
+    buttonText="Find out more"
+    buttonLink="/#section1"
+    features="Schedule Calendar,Tasks Progress,Reminders and Notes"
     imagePosition="left"
 >}}
 
@@ -98,7 +97,7 @@ testimonials:
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
-        <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
+        <div class="max-w-3xl mx-auto bg-primary-100 rounded-xl shadow-sm p-8">
             <h2 class="text-2xl font-bold mb-4">A Message from the Team:</h2>
             <p class="text-xl text-gray-600">
                 "Our mission is to promote inclusiveness and invest in quality and innovation so that Propela is faithful to its objective and durable in the long term."
@@ -106,6 +105,10 @@ testimonials:
         </div>
     </div>
 {{< /section-container >}}
+
+
+ <div class="text- text-center text-gray-600 mb-12" id="section1"></div>
+
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
@@ -125,11 +128,6 @@ testimonials:
     </div>
 {{< /section-container >}}
 
-{{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
-    animate="true"
-    background-color="#f1f5f9"
->}}
+ <div class="text- text-center text-gray-600 mb-12" id="section3"></div>
 
 {{< cta >}}
