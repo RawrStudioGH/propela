@@ -68,7 +68,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/propela_logo_symbol.png"
+      src = "images/propela_logo_symbol.png"
     
     # Menu configuration
     #[params.header.menu]
