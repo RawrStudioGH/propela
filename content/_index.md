@@ -31,7 +31,7 @@ testimonials:
     primary_button_url="#"
     secondary_button_text="Contact Us"
     secondary_button_url="#section3"
-    hero_image="/images/propela_logo.png"
+    hero_image="images/propela_logo.png"
     gradient-from="#F7F7F7"
     gradient-to="#F7F7F7"
     gradient-angle="180"
