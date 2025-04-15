@@ -76,7 +76,7 @@ paginatePath = "page"
       
       # Dropdown menu configuration
       [params.header.menu.dropdown]
-         enable = false
+         visible = false
       #  width = "w-72"
       #  container_padding = "py-6"
       #  item_padding = "px-8 py-3"
