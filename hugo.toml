@@ -72,6 +72,7 @@ paginatePath = "page"
     
     # Menu configuration
     [params.header.menu]
+      visible = false
       spacing = "space-x-8"
       
       # Dropdown menu configuration
