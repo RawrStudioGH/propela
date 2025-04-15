@@ -5543,10 +5543,6 @@ select {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 @media (min-width: 640px) {
-
-  .menu-toggle {
-		display: none;
-	}
   
   .sm\:mt-20 {
     margin-top: 5rem;
