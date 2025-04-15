@@ -5544,9 +5544,9 @@ select {
 }
 @media (min-width: 640px) {
 
-   .md\:hidden {
-      display: none;
-    }
+  .menu-toggle {
+		display: none;
+	}
   
   .sm\:mt-20 {
     margin-top: 5rem;
