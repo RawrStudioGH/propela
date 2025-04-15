@@ -100,7 +100,7 @@ testimonials:
         <div class="max-w-3xl mx-auto bg-primary-100 rounded-xl shadow-sm p-8">
             <h2 class="text-2xl font-bold mb-4">A Message from the Team:</h2>
             <p class="text-xl text-gray-600">
-                "Our mission is to promote inclusiveness and invest in quality and innovation so that Propela is faithful to its objective and durable in the long term."
+                "Propela is a heartfelt app created by parents and therapists facing speech therapy challenges, hoping to ensure that every child has access to the tools they need to thrive, no matter where they are."
             </p>
         </div>
     </div>
