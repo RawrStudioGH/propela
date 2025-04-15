@@ -71,11 +71,12 @@ paginatePath = "page"
       src = "images/propela_logo_symbol.png"
     
     # Menu configuration
-    #[params.header.menu]
-    #  spacing = "space-x-8"
+    [params.header.menu]
+      spacing = "space-x-8"
       
       # Dropdown menu configuration
-      #[params.header.menu.dropdown]
+      [params.header.menu.dropdown]
+         enable = false;
       #  width = "w-72"
       #  container_padding = "py-6"
       #  item_padding = "px-8 py-3"
